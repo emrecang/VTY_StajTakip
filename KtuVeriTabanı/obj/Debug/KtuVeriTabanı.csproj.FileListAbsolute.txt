@@ -1,0 +1,177 @@
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\KtuVeriTabanı.dll.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\KtuVeriTabanı.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\KtuVeriTabanı.pdb
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csc.exe
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csc.exe.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csc.rsp
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csi.exe
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csi.exe.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csi.rsp
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.AppContext.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Console.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\vbc.exe
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\vbc.exe.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\vbc.rsp
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csprojAssemblyReference.cache
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csproj.CoreCompileInputs.cache
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csproj.CopyComplete
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.pdb
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\MySql.Data.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\Google.Protobuf.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\MySql.Data.xml
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\KtuVeriTabanı.dll.config
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\KtuVeriTabanı.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\KtuVeriTabanı.pdb
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csc.exe
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csc.exe.config
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csc.rsp
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csi.exe
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csi.exe.config
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\csi.rsp
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.AppContext.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Console.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\vbc.exe
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\vbc.exe.config
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\vbc.rsp
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\MySql.Data.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\Google.Protobuf.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\MySql.Data.xml
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csprojAssemblyReference.cache
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csproj.CoreCompileInputs.cache
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csproj.CopyComplete
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.dll
+C:\Users\Emre Can\Desktop\lol 8.22\project\KtuVeriTabanı\KtuVeriTabanı\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.pdb
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\KtuVeriTabanı.dll.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\KtuVeriTabanı.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\KtuVeriTabanı.pdb
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\csc.exe
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\csc.exe.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\csc.rsp
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\csi.exe
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\csi.exe.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\csi.rsp
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.AppContext.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Console.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\vbc.exe
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\vbc.exe.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\vbc.rsp
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\MySql.Data.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\Google.Protobuf.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\MySql.Data.xml
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csprojAssemblyReference.cache
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csproj.CoreCompileInputs.cache
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.csproj.CopyComplete
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.dll
+C:\Users\Emre Can\Desktop\KtuVeriTabanı\KtuVeriTabani\KtuVeriTabanı\obj\Debug\KtuVeriTabanı.pdb
